@@ -1,7 +1,7 @@
 # Node.js AWS Lambda Skeleton
 
 ## Directory Structure
-This is a structure for a node.js was lambda project solution. In this structure there are the following main directories:
+This is a structure for a node.js AWS Lambda project solution. In this structure there are the following main directories:
 * main/
 * test/
 * grunt/
