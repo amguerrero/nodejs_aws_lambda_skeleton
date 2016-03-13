@@ -1,0 +1,11 @@
+{
+  "name": "lambda-function",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
+  "main": "lambda.js",
+  "author": "Manuel Guerrero",
+  "license": "",
+  "description": "",
+  "devDependencies": {}
+}
