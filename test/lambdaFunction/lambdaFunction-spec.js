@@ -1,4 +1,4 @@
-var victim = require('../../main/lambdaFunction/LambdaFunction');
+var victim = require('../../main/lambdaFunction/LambdaHandler');
 var LambdaHelper = require('../../main/common/LambdaHelper/LambdaHelper');
 
 describe('On Lambda Execution', function() {

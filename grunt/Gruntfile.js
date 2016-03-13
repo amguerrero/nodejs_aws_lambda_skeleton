@@ -23,7 +23,7 @@ module.exports = function(grunt) {
                         "../main/lambdaFunction/node_modules/**",
                         "../main/lambdaFunction/package.json",
                         "../main/lambdaFunction/lambda.js",
-                        "../main/lambdaFunction/LambdaFunction.js"] }
+                        "../main/lambdaFunction/LambdaHandler.js"] }
                 ]
             }
         }
